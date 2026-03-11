@@ -1,0 +1,7 @@
+{
+  "machine": "0d5d7ad37b62",
+  "arch": "x86_64",
+  "cpu_count": 20,
+  "train_seconds": 0.9828,
+  "accuracy": 0.9516
+}
